@@ -27,6 +27,7 @@ import io
 import os # <-- Library added to handle file paths and names
 
 # --- STEP 2: Load the Original Image and Get Filename ---
+# Let´s use the famous Lenna image from Wikipedia
 url = "https://upload.wikimedia.org/wikipedia/en/thumb/7/7d/Lenna_%28test_image%29.png/250px-Lenna_%28test_image%29.png"
 
 # --- Extract base filename from URL ---
